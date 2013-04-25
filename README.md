@@ -1,4 +1,1 @@
-Coupons
-=======
-
-Sample Coupons
+PetStore Discount Coupon Templet
